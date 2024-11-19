@@ -3,7 +3,7 @@ HANDS-ON-3 TAREA | ORANGE
 
 Para está actividad se busco un dataset de kaggle.com.
 
-Se escogio el dataset llamado: 
+Se escogio el dataset llamado: "UCI Heart Disease Data"
 
 Que contiene las siguientes columnas:
 
